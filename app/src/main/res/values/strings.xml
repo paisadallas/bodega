@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">bodega</string>
+    <string name="title_activity_pedidos">pedidos</string>
+</resources>
